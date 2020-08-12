@@ -1,37 +1,18 @@
-## Welcome to GitHub Pages
+## 译者的话
 
-You can use the [editor on GitHub](https://github.com/xiaoyuaiheshui/Programming-Kubernetes/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+本项目的开源地址[https://github.com/xiaoyuaiheshui/Programming-Kubernetes/](https://github.com/xiaoyuaiheshui/Programming-Kubernetes/)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+如果你在阅读本书的过程中有发现不明白或者错误的地方，请随时到项目地址发布 issue 或者 fork 项目后发布 pr 帮助译者改善！不胜感激！
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+### 书籍简介
 ```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/xiaoyuaiheshui/Programming-Kubernetes/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+ 本书的原作者：
+ Michael Hausenblas 是 Red Hat 的开发人员倡导者。
+ Stefan Schimanski 是 Red Hat 的高级软件工程师。
+ 简介：
+ 所谓的云原生应用，能够清楚自己运行在k8s上，并且使用k8s api 和资源当作其扩展。
+ 一方面，云原生应用能够轻便地在不同的云上迁移。另一方面，受益于k8s声明式api提供的简洁可定义。
+ 通过本书我们将了解什么是Kubernetes原生应用程序以及通过看一个具体示例来了解它们的确切含义，我们将讨论 controllers 和 operators 以及 event-driven 的基础知识
+ 书籍出处:
+ https://www.oreilly.com/library/view/programming-kubernetes/9781492047094/
+```
