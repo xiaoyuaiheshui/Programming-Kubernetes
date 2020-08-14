@@ -1,8 +1,8 @@
 # ----
 # Site
 
-title: Edition Template
-url: "https://long-pig.cloudvent.net"
+title: 《 Programming-Kubernetes 》中文版
+url: "https://github.com/xiaoyuaiheshui/Programming-Kubernetes/"
 baseurl:
 google_analytics_key:
 show_full_navigation: true
@@ -15,9 +15,9 @@ author:
   email:
   twitter: # twitter username without the @ symbol
 social:
-  name: Edition Template
+  name: 《 Programming-Kubernetes 》中文版
   links:
-    - https://github.com/CloudCannon/edition-jekyll-template
+    - https://github.com/xiaoyuaiheshui/Programming-Kubernetes/
 
 # -----
 # Build
