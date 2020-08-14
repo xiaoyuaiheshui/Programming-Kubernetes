@@ -1,38 +1,24 @@
 ---
-title: Welcome
+title: 《 Programming-Kubernetes 》中文版
 ---
 
-This is the **Edition** template from [CloudCannon](http://cloudcannon.com/).
-**Edition** is perfect for documenting your product, application or service.
-It's populated with example content to give you some ideas.
+## 译者的话
 
-ChatApp is a fictional chat application for sending messages and media to others.
-Teams and friend groups would use ChatApp to stay up to date if it existed.
+本项目的开源地址[https://github.com/xiaoyuaiheshui/Programming-Kubernetes/](https://github.com/xiaoyuaiheshui/Programming-Kubernetes/)
 
-> [Sign up](http://example.com/signup) or learn more about ChatApp at [example.com](http://example.com/).
+如果你在阅读本书的过程中有发现不明白或者错误的地方，请随时到项目地址发布 issue 或者 fork 项目后发布 pr 帮助译者改善！不胜感激！
 
-### Getting Started
+## 书籍简介
+```
+ 本书的原作者：
+ Michael Hausenblas 是 Red Hat 的开发人员倡导者。
+ Stefan Schimanski 是 Red Hat 的高级软件工程师。
+ 简介：
+ 所谓的云原生应用，能够清楚自己运行在k8s上，并且使用k8s api 和资源当作其扩展。
+ 一方面，云原生应用能够轻便地在不同的云上迁移。另一方面，受益于k8s声明式api提供的简洁可定义。
+ 通过本书我们将了解什么是Kubernetes原生应用程序以及通过看一个具体示例来了解它们的确切含义，我们将讨论 controllers 和 operators 以及 event-driven 的基础知识
+ 书籍出处:
+ https://www.oreilly.com/library/view/programming-kubernetes/9781492047094/
+```
+## 目录
 
-Getting a message sent is quick and easy with ChatApp:
-
-1. Sign up for an account
-2. Add your friends from their email addresses
-3. Type a message or send a photo
-
-> Feel free to send us a message at [feedback@example.com](mailto:feedback@example.com) with your feedback.
-
-### Features
-
-Explore more of ChatApp by reading about our features:
-
-#### Media
-
-Send images, videos and other media to people. Sources include your computer, phone and Facebook.
-
-#### Contact Syncing
-
-Sync your contact list with your phone and/or Facebook contacts. Never lose your contacts between devices again!
-
-#### Devices
-
-ChatApp is available everywhere. Find out how to set it up on your all your devices.
