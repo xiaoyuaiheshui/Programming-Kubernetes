@@ -1,4 +1,10 @@
-第六章 6. Writing Operators的解决方案
+---
+title: 第六章
+category: Writing Operators的解决方案
+order: 2
+---
+
+第六章 Writing Operators的解决方案
 =====================================
 
 到目前为止，我们已经在\`\` Controllers and
